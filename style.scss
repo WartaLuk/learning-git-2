@@ -1,0 +1,22 @@
+/*Global*/
+body {
+    text-align: center;
+    background: rgb(136, 136, 136);
+    align-items: center;
+}
+header {
+    font-family: 'Inconsolata', monospace;
+    background: rgb(224, 224, 224);
+    padding: 12px 68px;
+    margin-bottom: 12px;
+    span {
+        color: rgb(244, 009, 003);
+    }
+}
+main {
+    font-family: 'Open Sans', sans-serif;
+    padding: 28px 0;
+    .container {
+        background: rgb(166, 166, 166);
+    }
+}
