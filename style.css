@@ -24,3 +24,7 @@ main {
 main .container {
   background: #a6a6a6;
 }
+
+main a:hover {
+  color: #e90606;
+}
